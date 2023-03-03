@@ -1,0 +1,4 @@
+﻿  CPP12.cpp
+C:\Users\AdminUser\Documents\Dev\COP2220\CPP12\CPP12\CPP12.cpp(51,6): warning C4101: 'cnt1': unreferenced local variable
+C:\Users\AdminUser\Documents\Dev\COP2220\CPP12\CPP12\CPP12.cpp(52,6): warning C4101: 'cnt2': unreferenced local variable
+  CPP12.vcxproj -> C:\Users\AdminUser\Documents\Dev\COP2220\CPP12\x64\Debug\CPP12.exe
